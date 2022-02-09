@@ -1,23 +1,22 @@
 {
    "name":"YT",
    "description":"Thanks You Allah",
-
    "stack":"container",
    "env":{
       
       "VNC_TITLE":{
-         "description":"VNC Session Title, w/o spaces.",
+         "description":"Title",
          "value":"",
          "required":true
       },
       "VNC_PASS":{
-         "description":"VNC server password w/o spaces.",
+         "description":"Password",
          "value":"1234",
          "required":true
                },
       "VNC_RESOLUTION":{
-         "description":"VNC Server Resolution in WxH, 720p is preferrable.",
-         "value":"1280x720",
+         "description":"Resolution in WxH 1280x720",
+         "value":"820x1220",
          "required":true
       },
       "NO_SLEEP":{
