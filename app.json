@@ -1,7 +1,6 @@
 {
    "name":"YT",
    "description":"Thanks You Allah",
-   "repository":"",
    "stack":"container",
    "env":{
       
